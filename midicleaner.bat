@@ -1,3 +1,3 @@
 @echo off
 
-pipenv run python %~dp0\midicleaner.py %*
+uv run python %~dp0\midicleaner.py %*

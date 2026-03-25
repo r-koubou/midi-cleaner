@@ -1,11 +1,6 @@
-NOTICE
-=======================================
+This project depends following 3rd party library/software.
 
-## Dependency third party libraries
-
-This software depends following libraries to work.
-
-### prety-midi
+## prety-midi
 
 pretty_midi contains utility function/classes for handling MIDI data, so that it's in a format which is easy to modify and extract information from.
 
